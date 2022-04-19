@@ -16,7 +16,7 @@ const ArtistList = (props) => {
 
     const getDetails = (artist) => {
         if (!artist) return;
-        return navigate(`/artist/${artist.id}/details`);
+        return navigate(`/deezer/artist/${artist.id}/details`);
     };
 
     return (

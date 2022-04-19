@@ -19,7 +19,7 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route path="/deezer" element={<List />} />
-            <Route path="/artist/:artistId/details" element={<Details />} />
+            <Route path="/deezer/artist/:artistId/details" element={<Details />} />
           </Routes>
         </BrowserRouter>
       </Container>
