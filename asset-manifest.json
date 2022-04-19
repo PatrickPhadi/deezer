@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deezer/static/css/main.e6c13ad2.css",
+    "main.js": "/deezer/static/js/main.cf8670cb.js",
+    "static/js/787.4d047c83.chunk.js": "/deezer/static/js/787.4d047c83.chunk.js",
+    "index.html": "/deezer/index.html",
+    "main.e6c13ad2.css.map": "/deezer/static/css/main.e6c13ad2.css.map",
+    "main.cf8670cb.js.map": "/deezer/static/js/main.cf8670cb.js.map",
+    "787.4d047c83.chunk.js.map": "/deezer/static/js/787.4d047c83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cf8670cb.js"
+  ]
+}
