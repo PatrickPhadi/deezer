@@ -16,7 +16,7 @@ function Details({ artistId, navigate }) {
     useEffect(() => {
         dispatch(getFullArtistDetails(artistId));
         if (searching) {
-            navigate('/');
+            navigate('/deezer');
         }
     }, [dispatch, artistId, searching, navigate]);
 
